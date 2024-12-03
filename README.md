@@ -1,5 +1,5 @@
 #  TranslationGenerator
-TranslationGenerator is a Swift-based utility for generating and converting localization files for iOS applications. It automates the process of converting language-specific JSON files into Localizable.strings format and vice versa, and organizes them into .lproj directories, making it easier to manage multilingual support in your app.
+TranslationGenerator is a Swift-based utility for generating and converting localization files for iOS applications, ie: Json to Localizable.string and Localizable.string to Json. It automates the process of converting language-specific JSON files into Localizable.strings format and vice versa, and organizes them into .lproj directories, making it easier to manage multilingual support in your app.
 
 ## Features
 - Converts JSON translation files (e.g., en.json, es.json) into Localizable.strings.
