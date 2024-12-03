@@ -1,5 +1,5 @@
 //
-//  script.swift
+//  Script.swift
 //
 //
 //  Created by Khondakar Afridi on 12/3/24.
@@ -7,78 +7,37 @@
 
 import Foundation
 
-// MARK: - Utility Function to Convert JSON to Localizable.strings Format
-func convertJSONToLocalizableStrings(jsonFilePath: String, outputFolderPath: String, languageCode: String) {
-    let fileManager = FileManager.default
-    
-    // Read JSON File
-    guard let jsonData = try? Data(contentsOf: URL(fileURLWithPath: jsonFilePath)) else {
-        print("Failed to read JSON file: \(jsonFilePath)")
-        return
-    }
-    
-    // Parse JSON Data
-    guard let translations = try? JSONSerialization.jsonObject(with: jsonData, options: []) as? [String: String] else {
-        print("Failed to parse JSON file: \(jsonFilePath)")
-        return
-    }
-    
-    // Create Localizable.strings Content
-    var localizableContent = ""
-    for (key, value) in translations {
-        localizableContent += "\"\(key)\" = \"\(value)\";\n"
-    }
-    
-    // Create Language-Specific Folder
-    let languageFolderPath = "\(outputFolderPath)/\(languageCode).lproj"
-    if !fileManager.fileExists(atPath: languageFolderPath) {
-        do {
-            try fileManager.createDirectory(atPath: languageFolderPath, withIntermediateDirectories: true, attributes: nil)
-        } catch {
-            print("Failed to create folder: \(languageFolderPath). Error: \(error)")
-            return
-        }
-    }
-    
-    // Write to Localizable.strings File
-    let localizableFilePath = "\(languageFolderPath)/Localizable.strings"
-    do {
-        try localizableContent.write(toFile: localizableFilePath, atomically: true, encoding: .utf8)
-        print("Generated Localizable.strings for \(languageCode) at \(localizableFilePath)")
-    } catch {
-        print("Failed to write Localizable.strings file: \(localizableFilePath). Error: \(error)")
-    }
-}
+// MARK: - Script Execution to Generate Localizable from Json
 
-// MARK: - Main Script Logic
-func processTranslations(inputFolderPath: String, outputFolderPath: String, languages: [String]) {
-    for language in languages {
-        let jsonFilePath = "\(inputFolderPath)/\(language).json"
-        convertJSONToLocalizableStrings(jsonFilePath: jsonFilePath, outputFolderPath: outputFolderPath, languageCode: language)
-    }
-}
+/// Main execution of the script.
 
-// MARK: - Script Parameters
-let inputFolderPath = "/Users/khondakarafridi/Developer/TranslationGenerator/TranslationGenerator/translations" // Path to folder containing JSON files
-let outputFolderPath =  "/Users/khondakarafridi/Developer/TranslationGenerator/TranslationGenerator/localized"    // Path to folder where .lproj folders will be created
-let languages = ["en", "es", "de", "fr"]  // List of language codes
+// Path to folder containing JSON files
+let jsonInputPath = "/Users/khondakarafridi/Developer/TranslationGenerator/TranslationGenerator/json_to_localized/json_input"
 
-// Ensure Paths Exist
-let fileManager = FileManager.default
-if !fileManager.fileExists(atPath: inputFolderPath) {
-    print("Input folder does not exist: \(inputFolderPath)")
-    exit(1)
-}
+// Path to folder where .lproj folders will be created
+let localizedOutputPath = "/Users/khondakarafridi/Developer/TranslationGenerator/TranslationGenerator/json_to_localized/localized_output"
 
-if !fileManager.fileExists(atPath: outputFolderPath) {
-    do {
-        try fileManager.createDirectory(atPath: outputFolderPath, withIntermediateDirectories: true, attributes: nil)
-    } catch {
-        print("Failed to create output folder: \(outputFolderPath). Error: \(error)")
-        exit(1)
-    }
-}
+// List of language codes
+let jsonToLocalizedLanguages = ["en", "es", "de", "fr"]
 
-// Process Translations
-processTranslations(inputFolderPath: inputFolderPath, outputFolderPath: outputFolderPath, languages: languages)
+// Initialize and run the TranslationProcessor
+let jsonToLocalizedProcessor = TranslationProcessor(inputFolderPath: jsonInputPath, outputFolderPath: localizedOutputPath, languages: jsonToLocalizedLanguages)
+jsonToLocalizedProcessor.processTranslations()
 
+
+// MARK: - Script Execution to Generate Json from Localizable
+
+/// Main execution of the script.
+
+// Path to folder containing .lproj files
+let localizedInputPath = "/Users/khondakarafridi/Developer/TranslationGenerator/TranslationGenerator/localized_to_json/localized_input"
+
+// Path to folder where JSON files will be created
+let jsonOutputPath = "/Users/khondakarafridi/Developer/TranslationGenerator/TranslationGenerator/localized_to_json/json_output"
+
+// List of language codes
+let localizedToJsonLanguages = ["en",]
+
+// Initialize and run the TranslationProcessor
+let localizedToJsonProcessor = TranslationProcessor(inputFolderPath: localizedInputPath, outputFolderPath: jsonOutputPath, languages: localizedToJsonLanguages)
+localizedToJsonProcessor.processLocalizable()

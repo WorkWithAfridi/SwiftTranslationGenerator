@@ -1,0 +1,770 @@
+"SCHEDULE_ERROR_TITLE" = "Error saving event";
+"SCHEDULE_ERROR_MESSAGE" = "Please fill all details";
+
+"CROWDFUNDING_TITLE" = "Money towards a photo book";
+"CROWDFUNDING_SUBTITLE" = "Thoughtful gift for the happy couple";
+"CROWDFUNDING_SUBTITLE_2" = "They can make it at any time";
+
+"INFO_CROWDFUNDING_LARGE" = "Large photo book giftcard";
+"INFO_CROWDFUNDING_SMALL" = "Small photo book giftcard";
+"INFO_CROWDFUNDING_1" = "Contribute and write a Thank-you note in the guestbook.";
+"INFO_CROWDFUNDING_2" = "Surprise the host/s with a message";
+"INFO_CROWDFUNDING_3" = "The perfect gift for your host. Your contribution is put towards a voucher for the host, along with any other guests who do the same.";
+"INFO_CROWDFUNDING_4" = "Send a greeting to the host/s";
+"INFO_CROWDFUNDING_5" = "After the purchase, you will be able to send a message to the host and say \"Thanks for a great event\"";
+"INFO_CROWDFUNDING_6" = "Make at any time";
+"INFO_CROWDFUNDING_7" = "The host has plenty of time to collect the photos and create the photo book. (Voucher runs out after 12 months)";
+
+// MARK: - FilterView
+"FILTER_ALL" = "All";
+
+// MARK: - Onboarding
+"ONBOARDING_TITLE" = "Welcome to Wedbox";
+"ONBOARDING_TITLE_UPGRADE" = "Upgrade Options";
+"ONBOARDING_TITLE_INVITE" = "Invite Guests";
+"ONBOARDING_TITLE_EVENT" = "Event Schedule";
+
+"ONBOARDING_SUBTITLE_1" = "Here are a few tips and tricks for getting set up in the app...";
+"ONBOARDING_SUBTITLE_UPGRADE" = "Did you know, you can upgrade your event to get even more out of Wedbox?";
+"ONBOARDING_SUBTITLE_INVITE" = "Invite your guests early and get as many photos as possible from your big day!";
+"ONBOARDING_SUBTITLE_EVENT" = "Set up a time schedule for your event and your photos will be automatically sorted for you.";
+
+"ONBOARDING_SUBTITLE_2" = "Just swipe left to find out more about some of the best features for collecting amazing event memories in the app.";
+"ONBOARDING_SUBTITLE_2_UPGRADE" = "You can see all of the available offers under Menu and Upgrade Options... or click on the button below.";
+"ONBOARDING_SUBTITLE_2_INVITE" = "Just go to the Menu and click Invite guests for all the options... or click on the button below.";
+"ONBOARDING_SUBTITLE_2_EVENT" = "You can choose the time, name and date you want for each category, and we'll do the rest!";
+
+"ONBOARDING_MENU_KEY" = "Menu";
+"ONBOARDING_UPGRADE_KEY" = "Upgrade Options";
+"ONBOARDING_INVITE_KEY" = "Invite guests";
+
+"ONBOARDING_NEXT_FINDOUT" = "Find out more";
+"ONBOARDING_NEXT_INVITE" = "Invite them here";
+"ONBOARDING_NEXT_EVENT" = "Set it up here";
+
+"DIGITAL_PRINTS" = "Prints";
+
+"USER_LEAVE_WEDDING" = "Leave this event";
+"ALERTVIEW_LEAVE_WEDDING_TITLE" = "Leave this event";
+"ALERTVIEW_LEAVE_WEDDING_MESSAGE" = "Are you sure you want to leave this wedding? This action can not be reverted!";
+/* NEW STRINGS */
+"DOWNLOADINFO_PURCHASE" = "Download HD is part of the premium package";
+
+// GestBookViewController
+
+"GUESTBOOK_TITLE" = "Guest Book";
+
+/* GestBookViewController */
+"GUESTBOOK_SUBTITLE_1_HAS_GREETINGS" = "Contribute and write a Thank-you note in the guestbook.";
+"GUESTBOOK_SUBTITLE_2_HAS_GREETINGS" = "Just click on the button below:";
+
+"GUESTBOOK_SUBTITLE_1_NO_GREETINGS" = "Be the first person to write a message in the guestbook and say thank you for a great event";
+"GUESTBOOK_SUBTITLE_2_NO_GREETINGS" = "The perfect post-party gift to surprise the host with and keep the happy memories alive for even longer.";
+"GUESTBOOK_SUBTITLE_3_NO_GREETINGS" = "Find out more by clicking on the button below:";
+
+"GUESTBOOK_MORE_BUTTON" = "Find out more";
+"GREETINGS_MENU" = "Guestbook";
+
+/* AskAgainViewController */
+"ASK_AGAIN_YES_BUTTON" = "Yes, please";
+"ASK_AGAIN_NO_BUTTON" = "No, thanks";
+"ASK_AGAIN_SUBTITLE" = "Would you like us to remind you about the Guest Book again?";
+
+// NPS
+"NPS_RATING_ZERO" = "0";
+"NPS_RATING_ONE" = "1";
+"NPS_RATING_TWO" = "2";
+"NPS_RATING_THREE" = "3";
+"NPS_RATING_FOUR" = "4";
+"NPS_RATING_FIVE" = "5";
+"NPS_RATING_SIX" = "6";
+"NPS_RATING_SEVEN" = "7";
+"NPS_RATING_EIGHT" = "8";
+"NPS_RATING_NINE" = "9";
+"NPS_RATING_TEN" = "10";
+"NPS_RATING_TITLE" = "How likely is it that you would recommend Wedbox to a friend or colleague";
+"NPS_RATING_EXPLENATION1_TITLE" = "0 - Not likely";
+"NPS_RATING_EXPLENATION2_TITLE" = "10 - Very likely";
+"NPS_COMMENT_TITLE" = "Thank you!\nCare to tell us why?";
+"NPS_COMMENT_PLACEHOLDER" = "Your thoughts here";
+"NPS_SUBMIT_BUTTON_TITLE" = "Submit";
+"NPS_CANCEL_BUTTON_EXTENDED_TITLE" = "No thanks, I won't tell you";
+"NPS_SUBJECT" = "NPS feedback %@ - Name - %@";
+
+// NOTIFICATIONS
+"NOTIFICATIONS_TITLE" = "Notifications";
+"MESSAGE_TITLE" = "Message";
+
+"ALERT_USER_WEDDING_MISSING_TITLE" = "Error in user or wedding data";
+"ALERT_USER_WEDDING_MISSING_MESSAGE" = "An error occured in the user or wedding data. Please try to relogin and see if that solves the problem";
+"PURCHASE_READ_MORE" = "Read more";
+"READ_LESS" = "Read less";
+
+"GENERAL_OK" = "Ok";
+"READ_MORE" = "Read more";
+"PHOTOGRAPHER" = "Photographer";
+
+"INVITE_PHOTOGRAPHER" = "Invite photographer";
+"DOWNLOAD_DESCRIPTION_TEXT" = "When you click the button, we zip all your files into a zip compressed folder and send a link to your email where you can get the files.";
+
+// MARK: WelcomeViewController
+"WELCOME_TITLE" = "All the memories from your big event";
+"WELCOME_SUBTITLE" = "Already part of a Wedbox event?";
+
+// MARK: InvitePhotographer
+"INVITE_PHOTOGRAPHER_TITLE" = "Invite your photographer";
+"INVITE_PHOTOGRAPHER_SUBTITLE" = "Let your photographer know about Wedbox, and have all photos collected in one place";
+"INVITE_PHOTOGRAPHER_SEND_INVITE" = "Send the invite";
+"INVITE_PHOTOGRAPHER_BOTTOM_LINK" = "Connect here &raquo;";
+"INVITE_PHOTOGRAPHER_INVITED_MESSAGE" = "Photograph invited";
+"INVITE_PHOTOGRAPHER_EMAIL_SENT" = "Invitation has been sent to your photographer";
+
+// MARK: Photographer
+"PHOTOGRAPHER_CONNECT" = "Contact";
+
+// MARK: - CommentViewController
+"1_WEEK_AGO" = "1 week ago";
+"LAST_MONTH" = "Last month";
+
+// MARK: - CommentViewController
+"ADD_A_COMMENT" = "Add a comment";
+
+// MARK: Time Elapsed
+"1_YEAR_AGO" = "1 year ago";
+"WEEKS_AGO" = "%d weeks ago";
+"YEARS_AGO" = "%d years ago";
+"MONTHS_AGO" = "%d months ago";
+"1_MONTH_AGO" = "1 month ago";
+"LAST_WEEK" = "Last week";
+"LAST_YEAR" = "Last year";
+"DAYS_AGO" = "%d days ago";
+"1_DAY_AGO" = "1 day ago";
+"YESTERDAY" = "Yesterday";
+"HOURS_AGO" = "%d hours ago";
+"1_HOUR_AGO" = "1 hour ago";
+"ONE_HOUR_AGO" = "One hour ago";
+"1_MINUTE_AGO" = "1 minute ago";
+"MINUTES_AGO" = "%d minutes ago";
+"ONE_MINUTE_AGO" = "One minute ago";
+"SECONDS_AGO" = "%d seconds ago";
+
+// MARK: Time Left
+"1_YEAR_LEFT" = "1 year left";
+"WEEKS_LEFT" = "%d weeks left";
+"YEARS_LEFT" = "%d years left";
+"MONTHS_LEFT" = "%d months left";
+"1_MONTH_LEFT" = "1 month left";
+"NEXT_WEEK" = "One week left";
+"NEXT_YEAR" = "One year left";
+"DAYS_LEFT" = "%d days left";
+"1_DAY_LEFT" = "1 day left";
+"TOMORROW" = "Tomorrow";
+"HOURS_LEFT" = "%d hours left";
+"1_HOUR_LEFT" = "1 hour left";
+"ONE_HOUR_LEFT" = "One hour left";
+"1_MINUTE_LEFT" = "1 minute left";
+"MINUTES_LEFT" = "%d minutes left";
+"ONE_MINUTE_LEFT" = "One minute left";
+"SECONDS_LEFT" = "%d seconds left";
+
+// MARK: - ConfirmWeddingView
+"WELCOME_MESSAGE" = "Welcome to our special day, we're so excited to celebrate with you! Please use the Wedbox app to share your photos and videos with us, so that we get all the best memories from our special day.";
+
+// MARK: - QRCodeViewController
+"QRCODE_MESSAGE" = "Point the camera at the QR code";
+
+/* MARK: - CreateProfileEmailViewController */
+"CREATE_WITH_EMAIL" = "Create with email";
+"RIGHT_NOW" = "Right now";
+
+"EMAIL" = "Email";
+"FIRSTNAME" = "First name";
+"CANCEL" = "Cancel";
+"CHOOSE_PASSWORD" = "Choose a password";
+"LASTNAME" = "Last name";
+"CREATE" = "Create";
+"CREATE_NEW_PROFILE" = "Create new profile";
+"YOURE_READY_IN_A_MOMENT" = "You're ready in a moment";
+"SPECIAL_LETTER_IN_NAME" = "Name contains special characters";
+"USER_EXISTS" = "User already exists";
+"USER_EXISTS_MESSAGE" = "A user with this email already exists";
+"SPECIAL_LETTER_MESSAGE" = "First name and last name can only contain letters";
+"FIRSTNAME_MISSING_MESSAGE" = "Please enter your first name";
+"PASSWORD_SHORT" = "Password too short";
+"PASSWORD_SHORT_MESSAGE" = "Your password is not valid.  Password must consist of at least 6 characters";
+"FIRSTNAME_MISSING" = "Please fill in your name";
+"LASTNAME_MISSING" = "Please fill in your last name";
+"PASSWORD_MISSING" = "Password missing";
+"EMAIL_NOT_VALID_MESSAGE" = "The email address is invalid. Please enter a valid email address.";
+"EMAIL_NOT_VALID" = "Invalid email";
+"LASTNAME_MISSING_MESSAGE" = "Please fill in your last name";
+"PASSWORD_MISSING_MESSAGE" = "You need to enter a password. The password must consist of at least 6 characters";
+
+"CONTENT_LABEL_MESSAGE" = "Now you're ready to collect important moments from your event. To save the event you need to login or create a new profile.";
+
+// MARK: - CreateProfileModalViewController
+"CREATE_PROFILE" = "Create profile";
+"CREATE_WITH_FACEBOOK" = "Create with Facebook";
+"CREATE_WITH_APPLE" = "Create with Apple";
+"LOGIN" = "Sign in";
+"LOGIN_MESSAGE" = "Sign in with Facebook or with email";
+"ENTER_PASSWORD" = "Enter password";
+"LOGIN_FACEBOOK" = "Sign in with Facebook";
+"LOGIN_APPLE" = "Sign in with Apple";
+"FORGOT_PASSWORD" = "Forgot password »";
+"NO_EMAIL_MESSAGE" = "You haven't given us permission to get your email address from Facebook. To register as a user, we have to use your email address. Please enter your email.";
+"LOGIN_MAIL" = "Sign in with email";
+/* This is shown if the user was logging in with Facebook, but did not give us permission to get the email address. 'No email' is the header of the alert */
+"NO_EMAIL" = "No email";
+"EMAIL_MISSING" = "Email missing";
+"EMAIL_MISSING_MESSAGE" = "Please enter your email address";
+"ERROR" = "Error (545)";
+"WRONG_PASSWORD" = "Invalid password";
+"WRONG_PASSWORD_MESSAGE" = "The password is invalid or the user does not have a password.";
+"LOGIN_ERROR" = "Login Failed";
+"LOGIN_ERROR_MESSAGE" = "The credentials you provided are incorrect";
+"TERMS_OF_SERVICE_LABEL" = "By signing up you accept our ";
+"TERMS_OF_SERVICE_BUTTON" = "terms and conditions";
+
+"FORGOT_PASSWORD_MESSAGE" = "An email with instructions how to reset your password will be sent to the below email address:";
+"USER_DOESNT_EXIST_MESSAGE" = "There is no user record that matches";
+"USER_DOESNT_EXIST" = "User doesn't exist";
+"FORGOT_PASSWORD_TITLE" = "Forgot password?";
+"NEXT" = "Next";
+
+// MARK: - CreateWeddingViewcontroller
+"CREATE_NEW_WEDDING" = "Create new wedding";
+"PREV" = "Previous";
+"YOUR_PARTNERS_EMAIL" = "Your partners email";
+"YOUR_PARTNERS_NAME" = "Your partners first name";
+"MY_PARTNER_IS" = "My partner is...";
+"YOUR_NAME" = "Your first name";
+"I_AM" = "I am...";
+"NO_ROLE_SELECTED_MESSAGE" = "No role selected. Please choose bride or groom";
+"EMPTY_NAME_FIELD" = "Enter your name";
+"NO_ROLE_SELECTED" = "No role selected";
+"EMPTY_NAME_FIELD_MESSAGE" = "Please enter a name in the name field.";
+"PARTNER_INVITATION_SUBJECT" = "Invitation to your wedding";
+"PARTNER_INVITATION_ERROR_TITLE" = "Partner invitation error";
+"PARTNER_INVITATION_ERROR_MESSAGE" = "An error occurred while sending your invitation to your partner. Please try again or contact support.";
+/*
+ * This is a alert showing to the user if they try to create a new wedding, but did not fill anything in the 'title' field.
+ * 'The title is missing' is the headline in the alert
+*/
+"TITLE_EMPTY" = "The title is missing";
+"TRY_AGAIN" = "Try again";
+"TITLE_EMPTY_MESSAGE" = "The title needs to be completed. Please enter a title. ";
+
+// MARK: - EmptyPhotoStreamView
+"BE_THE_FIRST" = "Be the first to add photos or videos here";
+
+// MARK: - ExplainerScreenView
+"OK_UNDERSTOOD" = "Ok, understood";
+"CHANGE_PHOTOSTREAM_APPEARANCE" = "Here you can change\nthe appearance of the photostream";
+"OK_IM_READY" = "Ok, I'm ready\nto use the app";
+
+"CHANGE_SETTINGS_AND_PROFILE" = "Here are all your settings\nand your profile";
+"ADD_PHOTOS_AND_VIDEOS" = "Here you can add\nphotos and videos";
+
+// MARK: - GeneralModalViewController
+"A_PERSONAL_WELCOME" = "A personal welcome";
+"DEFINE_YOUR_WELCOME" = "Now you will define the welcome your guests will get in the app. You can write the name of the wedding, a greeting, and choose a cover photo.\n\nYou will be able to change your setup of the welcome in your user profile.";
+"SETUP_WELCOME_NOW" = "I will do it now";
+"SETUP_WELCOME_LATER" = "I will do it later";
+
+// MARK: - MenuController
+"SUPPORT" = "Support";
+"PHOTO_STREAM" = "Photo stream";
+"INVITE_GUEST" = "Invite guests";
+"EVENT_PAGE" = "Event page";
+"CONTACT_SUPPORT" = "FAQ & Support";
+"DIGITAL_PURCHASE" = "Upgrade options";
+"RATE_WEDBOX" = "Rate Wedbox";
+"RECOMMEND_WEDBOX" = "Recommend Wedbox";
+"INACTIVE" = "Inactive";
+"NO_WEDDINGS" = "No weddings";
+"SELFIEBOX" = "Photo booth ";
+
+// MARK: - ParticipateWeddingView
+"PARTICIPATE_WEDDING_INFOLABEL" = "To participate in a new event you need an event ID or QR code\n\nYou can get it from the host";
+"PARTICIPATE_WEDDING_INPUTLABEL" = "Enter the event ID";
+"PARTICIPATE_WEDDING_BUTTONLABEL" = "or press button\nto scan";
+
+"UPDATE_PERSONAL_INFO" = "Update your personal information";
+
+// MARK: - PersonalViewController
+"PERSONAL_INFO" = "Personal info";
+"INFORMATION_UPDATED" = "Information updated";
+"EMPTY_FIELDS" = "One or more fields are empty";
+"PERSONAL_INFO_EMAIL_NOT_VALID" = "Email is not a valid email address";
+"UPDATE_INFO" = "Update info";
+
+// MARK: - PhotoCollectionViewCell
+"SHARE_IMAGE" = "Share image";
+
+// MARK: - PhotoStreamViewController
+"HOSTING_EXPIRING" = "The free hosting of your photos will expire on \n %@. Would you like to renew it now?";
+/* MARK: - PhotoStreamViewController */
+"UNKNOWN" = "unknown";
+"BY" = "By %@";
+"PULL_TO_REFRESH" = "Pull to refresh";
+"PREVIOUS" = "Previous";
+"FILES_HAVE_BEEN_UPDATED" = "Files have been updated";
+"REPORT" = "Report";
+"DELETE" = "Delete";
+"NO_IMAGE_TEXT" = "No image text";
+"DELETE_PHOTO" = "Delete photo";
+"DELETE_PHOTO_MESSAGE" = "Are you sure you want to delete this photo?";
+"ADD_NUMBER_OF_PHOTOS" = "Adding your %d files";
+"ADD_ONE_PHOTO" = "Adds 1 file";
+"ADD_LAST_PHOTO" = "Adds your last file";
+"PHOTOS_UPLOADED" = "Nice. Your files have been uploaded";
+"VIDEO_UPLOADED" = "The video has been uploaded and it might take a while before it appears";
+"UPLOAD_CANCELLED" = "The upload was cancelled";
+"YES" = "Yes";
+"CANCEL_UPLOADS_MESSAGE" = "Do you want to cancel all pending uploads?";
+
+"EXPANDING_MENU_VIDEO_TITLE" = "Create new video";
+"EXPANDING_MENU_PHOTO_TITLE" = "Create new photo";
+"EXPANDING_MENU_FILES_TITLE" = "Add from gallery";
+
+// MARK: - Paywall
+"HOSTING_HAS_EXPIRED" = "Your hosting has expired";
+"HOSTING_EXPIRED_SUBTITLE" = "photos have been uploaded to the wedding";
+"WARNING_TITLE" = "We loved collecting and hosting your photos and videos for the first 2 month for free.";
+"WARNING_MESSAGE" = "Your free hosting has now expired, but don't worry, all your photos are still here - just choose from one of the paid plans below";
+"MONTHLY_SUBSCRIPTION" = "/monthly";
+"YEARLY_SUBSCRIPTION" = "/yearly";
+"CONTACT_SUPPORT_PAYWALL" = "Contact support>";
+"SWITCH_WEDDING" = "Switch wedding>";
+"PAYMENT_OPTIONS" = "See upgrade options";
+
+// MARK: - PaywallSwitchWeddingViewController
+"SWITCH_TITLE" = "Switch to another wedding:";
+"SWITCH_SUBTITLE" = "Or create/join another one:";
+
+// MARK: - SelfieBoxViewController
+"SELFIEBOX_TITLE" = "Photo booth";
+"SELFIE_TITLE" = "Wedbox Photo booth function";
+"SELFIE_SUBTITLE" = "You can use this feature to set up a photobooth for your wedding (or event).";
+"SELFIE_LAUNCH_LABEL" = "To get straight into taking pictures click below to launch the camera:";
+"SELFIE_READ_LABEL" = "For more information on how to set-up and what equipment to use, just click on the button below:";
+"SELFIE_LAUNCH_BUTTON" = "Launch photo booth mode";
+"SELFIE_READ_BUTTON" = "Read more";
+"SELFIEBOX_NOT_AVAILABLE_ERROR_TITLE" = "Error";
+"SELFIEBOX_NOT_AVAILABLE_ERROR_SUBTITLE" = "This feature is only available from iOS 11. Please update your iOS version to use photo booth mode.";
+
+"SELFIEBOX_TITLE_PHONE" = "Did you know we've created a new feature for iPad that you can use to set up a photobooth for your wedding (or event).";
+
+"SELFIEBOX_READ_MORE_TAPPED" = "https://wedbox.com/?p=2914";
+
+// MARK: - ReviewViewController
+"REVIEW_TITLE" = "Thank you for using Wedbox, we hope you had an amazing day!";
+"REVIEW_SUBTITLE" = "Do you want to leave a quick video review of Wedbox and earn a 25% discount code for our Thank You books?";
+"REVIEW_YES_BUTTON" = "YES PLEASE";
+"REVIEW_NO_BUTTON" = "NO THANKS";
+
+// MARK: - LeaveReviewViewController
+"LEAVE_REVIEW_TITLE" = "Great! Just press the button below when you're ready.";
+"LEAVE_REVIEW_BUTTON" = "LEAVE REVIEW";
+"LEAVE_REVIEW_SUBTITLE" = "Here are some questions to think about:";
+"LEAVE_REVIEW_OPTION_1" = "How did your guests use Wedbox at your wedding?  ";
+"LEAVE_REVIEW_OPTION_2" = "What do the photos you collected mean to you?";
+"LEAVE_REVIEW_OPTION_3" = "Would you recommend Wedbox to other wedding couples?";
+
+// MARK: - RecordReviewViewController
+"REVIEW_RETAKE_VIDEO" = "Retake video";
+"REVIEW_SUBMIT" = "Submit";
+"REVIEW_START_BUTTON" = "Start recording";
+"REVIEW_STOP_BUTTON" = "Stop recording";
+
+// MARK: - AfterReviewViewController
+"AFTER_REVIEW_TITLE" = "Thank you for your review!";
+"AFTER_REVIEW_SUBTITLE" = "Your coupon code is:";
+"AFTER_REVIEW_REMINDER" = "If you lose this, you can always send a message to us at";
+
+// MARK: - LaunchSelfieViewController
+"CLICK_HERE" = "CLICK HERE TO TAKE A PHOTO!!";
+"NEW_PHOTO_TITLE" = "Your photo has been uploaded to a Wedbox wedding with the ID:";
+"NEW_PHOTO_SUBTITLE" = "Install the Wedbox app on your phone to see the photo(s)";
+"TAKE_PHOTO_BUTTON" = "TAKE NEW PHOTO";
+
+// MARK: - PROGRESSVIEW
+"CANCEL_UPLOADS" = "Cancel uploads";
+"NO" = "No";
+"NO_WEDDINGS_MESSAGE" = "You have no weddings to show";
+"WEDDING_CREATED" = "Congratulations, your wedding is now created";
+
+// MARK: - Crowdfunding
+"GUESTS_DONATET_FOR_PHOTOBOOK" = "%d guests have donated to a Photo book.  Would you like to join?";
+"SURPRIZE_WEDDING_COUPLE" = "Surprise\n the wedding couple \nwith a Photo book";
+"YOU_HAVE_ALREADY_CONTRIBUTED" = "You have already\ncontributed to the Photo book";
+"YOU_HAVE_CONTRIBUTED_X_AMOUNT" = "You have donated %@ to a Photo book";
+"DONATE_AND_WRITE_GREETING" = "Donate and write a greeting";
+"WRITE_GREETING_PROMPT" = "Write a greeting to the host - It will be visible for everyone:";
+"PEOPLE_WHO_CONTRIBUTED_MORE" = "%@ and %d other joined";
+"PEOPLE_WHO_CONTRIBUTED_LESS" = "%@ joined";
+"CONTRIBUTE_HOW_IT_WORK" = "How it works";
+"CONTRIBUTE_HELP_WEDDING_COUPLE" = "Help the wedding couple to remember all the precious moments from their wedding day by printing a beautiful photo book.";
+"CONTRIBUTE_HELP_SEE_DESIGN" = "The couple can choose between 15 designs and they can customize it to meet their preferences and taste. Take a look at the designs on \n https://print.wedbox.com if you are curious";
+"CONTRIBUTE_HELP_GIFT_CARD_NOTIFICATION" = "The wedding couple will be notified about the gift card, which will be issued 5 days after the wedding.";
+"CONTRIBUTE_HELP_GIFT_CARD_FEES" = "The gift card will have the full amount collected by all guests - there are no fees.";
+"DONATE_MESSAGE_HAS_BEEN_SENT" = "Your message has been sent";
+
+// MARK: - ProfileSettingsViewController
+"UPLOAD_QUEUE" = "Upload queue";
+"UPLOAD_VIDEO_NO_WIFI" = "Upload videos without WiFi";
+"NOTIFICATIONS" = "Notifications";
+"LOG_OUT" = "Log out";
+"DELETE_TITLE" = "Delete profile?";
+"DELETE_PROFILE" = "Delete profile";
+"PROFILE_SETTINGS_TITLE" = "Profile settings";
+"DELETE_MESSAGE" = "Do you want to delete your Wedbox profile?";
+"TERMS_AND_CONDITIONS" = "Terms and conditions";
+"PRIVACY_POLICY" = "Privacy policy";
+
+// MARK: - RoleSelectionView
+"GROOM" = "Groom";
+"BRIDE" = "Bride";
+"GUEST" = "guest";
+"THE_BRIDE" = "The bride";
+"PERSON_YOU" = "You";
+
+// MARK: - ScheduleTimeViewController
+"ADD_NEW_ACTIVITY" = "ADD A NEW TIMELINE EVENT";
+"EDIT_ACTIVITY" = "Edit activity";
+"THE_GROOM" = "The groom";
+"SAVE" = "Save";
+"SCHEDULE_TITLE" = "Title";
+"SCHEDULE_TIME" = "Pick start time";
+"SCHEDULE_EVENT_LABEL" = "Event";
+"SCHEDULE_DATE_LABEL" = "Date";
+"SCHEDULE_START_LABEL" = "Start time";
+"SCHEDULE_EVENT_ICON" = "Event icon";
+
+"SCHEDULE_DATE" = "Choose date";
+"SHARE_TITLELABEL" = "Do you know anyone who is getting married?";
+// MARK: - ShareViewController
+"SHARE_NAVIGATION_TITLELABEL" = "Recommend Wedbox";
+"SHARE_DESCRIPTION" = "Share Wedbox. Share your memories";
+"SHARE_WITH_FACEBOOK" = "Share with Facebook";
+"SHARE_WITH_SMS" = "Share with SMS";
+"SHARE_WITH_EMAIL" = "Share with email";
+"EMAIL_SUBJECT" = "Try this app for a wedding";
+"SMS_CONTENT" = "Hi. Check out the new Wedbox photo app for capturing photos at a wedding: %@";
+"EMAIL_CONTENT" = "Hi\nI have been using the Wedbox photo app. The app captures photos from your wedding guests. You should check it out: %@";
+"FACEBOOK_CONTENT_TITLE" = "Recommend Wedbox";
+"FACEBOOK_CONTENT_DESCRIPTION" = "Check out the new Wedbox photo app for capturing photos at a wedding";
+
+// MARK: - UploadQueueTableViewController
+"EMPTY_QUEUE" = "Empty queue";
+"CANCEL_ALL_UPLOADS_MESSAGE" = "Do you want to cancel all current uploads?";
+
+"EMPTY_QUEUE_MESSAGE" = "Your photo/video upload queue is currently empty. No pending uploads.";
+
+// MARK: - UploadViewController
+"ADD_IMAGES_AND_VIDEO" = "Add images and video";
+"CANCEL_ALL_UPLOADS" = "Cancel all";
+"TAKE_NEW_PICTURE" = "Take new picture";
+"IMAGE_TEXT" = "Caption (optional)";
+"DONE" = "Done";
+"ADD" = "Add";
+"NO_CAMERA" = "No camera";
+"NO_CAMERA_MESSAGE" = "No camera available";
+"CAMERA_PERMISSION_MESSAGE" = "Camera permission is turned off. Go to settings to enable camera";
+"ALLOW_WIFI_TITLE" = "Allow upload of videos without wifi";
+"ALLOW_WIFI_MESSAGE" = "There is currently no WiFi available. You have not allowed for videos to be uploaded without WiFi. You can allow this immediately and continue by pressing allow, or cancel the upload and remove videos to continue.";
+"CAMERA_PERMISSION_TITLE" = "Camera permission";
+"PHOTO_PERMISSION_MESSAGE" = "Photo permission is turned off. Go to settings to enable photos";
+"PHOTO_PERMISSION_TITLE" = "Photo permission";
+"ALLOW_AND_CONTINUE" = "Allow and continue";
+"MAX_NUMBER_FILES_REACHED_TITLE" = "Maximum number of files reached";
+"MAX_NUMBER_FILES_REACHED_MESSAGE" = "You have reached the maximum number of files you are allow to upload at once.";
+"BUY_PREMIUM_TITLE" = "Premium";
+"BUY_PREMIUM_VIDEO_MESSAGE" = "You need to buy premium to gain access to video upload";
+"MAX_DURATION_REACHED_MESSAGE" = "The selected video is too long";
+"MAX_DURATION_REACHED_TITLE" = "Maximum length";
+"HIGH_FILESIZE_WARNING_TITLE" = "File size";
+"HIGH_FILESIZE_WARNING_MESSAGE" = "Please note that this video is very large. Are you sure you want to upload it?";
+
+// MARK: - BuyPhotoViewController
+"BUY_PHOTO_TITLE" = "Download photo in original quality to your phone";
+"BUY_PHOTO_SUBTITLE_1" = "When you pay, you get the photo in original quality — which means the best version of the photo that was uploaded.";
+"BUY_PHOTO_SUBTITLE_2" = "Or click below to purchase a package for downloading all the photos at once.";
+"PACKAGES_BUTTON" = "SEE PACKAGES";
+"BUY_PHOTO_NOW" = "DOWNLOAD NOW FOR";
+"ONLY_PHOTO_DOWNLOAD" = "You can only download photos";
+"IMAGE_SAVED" = "This photo has now been saved on your phone";
+"PURCHASE_ALERT_TITLE" = "Thank you for purchasing the photo";
+"PURCHASE_ALERT_SUBTITLE" = "Please click the download icon again to start download";
+
+// MARK: - WeddingCodeViewController
+"WEDDING_CODE_TITLE" = "Enter wedding ID";
+
+// MARK: - ViewController
+"GOT_PROFILE" = "Do you already have a profile?";
+"THE" = " the ";
+"SIGN_IN_BUTTON_TITLE" = "Sign in »";
+
+"JOIN_WEDDING" = "Attend";
+"INCORRECT_NUMBER_OF_CHARACTERS_MESSAGE" = "Incorrect number of characters";
+"WEDDING_NOT_FOUND_TITLE" = "Wedding not found";
+/*
+ * This is a alert given to the user, if they fill in a wedding ID that dosn't exist.
+ * 'Input error' is the headline of the alert.
+*/
+"INCORRECT_NUMBER_OF_CHARACTERS_TITLE" = "Input Error";
+"WEDDING_ALREADY_ATTENDED_TITLE" = "Already attending";
+"WEDDING_NOT_FOUND_MESSAGE" = "Was unable to find wedding with provided wedding ID. Please double check the code";
+"WEDDING_ALREADY_ATTENDED_MESSAGE" = "You are already registered as attending at the current wedding";
+
+/* This is an alert given to a user when he is trying to add a wedding that he already have */
+"USER_ALREADY_MEMBER_ERROR" = "Error";
+"USER_ALREADY_MEMBER_MESSAGE" = "You are already participating in this wedding";
+
+// MARK: - ProfileViewController
+"PROFILE_VC_PICTURES" = "%d pictures";
+"PROFILE_VC_COMMENTS" = "%d comments";
+"PROFILE_VC_VIDEOS" = "%d videos";
+"PROFILE_VC_GUESTS" = "%d guests";
+"GUESTS" = "Guests";
+
+// MARK: - EventPageViewController
+"GET_IT_ALL" = "Get it all";
+"DOWNLOAD" = "Download pictures and videos";
+"WEDDING_DATE" = "Wedding date";
+"TIMESCHEDULE" = "Time schedule for the wedding";
+"DECTIVATE_WEDDING" = "Delete wedding";
+"ALLOW_SHARING" = "Allow guests to share";
+"EDIT_WELCOME" = "Edit welcome";
+
+"ACTIVATE_WEDDING" = "Activate wedding";
+"BUY_PREMIUM" = "buy premium";
+
+// MARK: - InvitationViewController
+"INVITE_NAVIGATION_TITLELABEL" = "Invite guests";
+"INVITE_DESCRIPTION" = "Invite your guests and collect all the unique moments from your wedding";
+"INVITE_CLOSE" = "Close";
+"WEDDING_ID" = "WeddingID";
+"INVITE_FACEBOOK" = "Invite with Facebook";
+"INVITE_SMS" = "Invite with SMS";
+"INVITE_EMAIL" = "Invite with email";
+"COPY_LINK" = "Copy link to wedding";
+"INVITE_EMAIL_SUBJECT" = "Join our wedding";
+"INVITE_CONTENT" = "Please help us capture photos from our wedding events using Wedbox!\n\nJoin our wedding now:\n%@\n\nIf asked, enter Wedding ID: %@\n\nThanks\n%@";
+"SHARE" = "Share";
+
+"INVITATION_QR_TITLE" = "QR Code";
+"INVITATION_QR_SUBTITLE" = "When your guests point their phone camera to this QR code, they will be guided directly to your event in the app.";
+"INVITATION_QR_SAVED_SUBTITLE" = "Your wedding QR code has been saved successfully!";
+
+// MARK: - EditViewController
+"EDIT_WEDDING_DATE" = "Edit wedding date";
+
+// MARK: - TimeScheduleViewController
+"ACTIVATE_TIMESCHEDULE" = "Activate the time schedule";
+"TIMESCHEDULE_INFOLABEL" = "Setup your time schedule below. Put a label on the highlights of the day - \nand all photos and videos will then be sorted";
+"SETUP_TIMESCHEDULE" = "Setup time schedule";
+/*
+ * This is like 'At 13.34'
+ * So %@ will be replaced by a time
+*/
+"AT_TIME" = "at %@";
+
+// MARK: - EventScheduleViewController
+"EVENT_SCHEDULE_LABEL" = "Event Schedule";
+
+// MARK: - SupportViewController
+"SUPPORT_TITLELABEL" = "Do you need help?";
+"SUPPORT_READY" = "We are here to help you";
+"SUPPORT_ANSWER" = "Answers will be send to ";
+"SUPPORT_SEND" = "Send";
+"SUPPORT_TITLE" = "Support";
+"SUPPORT_MAIL_SUBJECT" = "Wedbox support - ";
+
+// MARK: New Strings
+"SUPPORT_MAIL_CONTENT" = "* Insert your message here *\n\n--- Support info. Please do not remove ---\n\nUser on iPhone";
+"SUPPORT_MAIL_TO_1" = "support@wedbox.com";
+
+// MARK: - RateViewController
+"RATE_TITLE" = "Rate Wedbox";
+"RATE_DO_YOU_LIKE" = "Do you like Wedbox?";
+"RATE_DESCRIPTION" = "Rate us and make us happy";
+"RATEBUTTON" = "Yes sure, let's open App Store";
+"REVIEW_BUTTON" = "I want to make a video review";
+
+// MARK: - PurchaseViewController
+"RESTORE_PURCHASE" = "Restore digital purchases";
+"PURCHASE_TITLE" = "GET IT ALL";
+"PURCHASE_SUBTITLE" = "Upgrade options";
+"LEARN_MORE" = "Learn more>";
+"PER_MONTH" = "[per month]";
+
+"EVERYONE_UPLOAD" = "Everyone can upload";
+"EVERYONE_DOWNLOAD" = "Everyone can download";
+"YOU_DOWNLOAD" = "You can download";
+"5_YEARS_PHOTO_PROTECTION" = "5 years hosting";
+"1_YEAR_PHOTO_PROTECTION" = "1 year hosting";
+"MONTHLY_FEE" = "Monthly fee";
+"UNLIMITED_ACCESS" = "Unlimited access";
+
+// MARK: - Thank You For Purchase
+"THANK_YOU_TITLE" = "THANK YOU FOR YOUR PURCHASE";
+"THANK_YOU_SUBTITLE_1" = "Your payment was successful and we have added the Premium package to your wedding.";
+"THANK_YOU_SUBTITLE_BUNDLE_2" = "We have also sent an email to youremail@hotmail.com with a guide on how to create your photo book.";
+"THANK_YOU_SUBTITLE_3" = "If you have any questions, you can always contact our dedicated customer support team. You can reach them here via menu, or write to them at";
+"THANK_YOU_DOWNLOAD_PHOTO" = "Please click the download icon again to start download";
+
+"THANK_YOU_SUBTITLE_MULTIPLE_1" = "Your payment was successful and we have added the Download MULTIPLE User package to your wedding.";
+"THANK_YOU_SUBTITLE_SINGLE_1" = "Your payment was successful and we have added the Download SINGLE User package to your wedding.";
+"THANK_YOU_ZIP" = "Should we zip your files and send you the download link now?";
+"BACK" = "Back";
+
+// MARK: - PurchaseInfoViewController
+"INFO_TITLE_PREMIUM" = "Premium Package";
+"INFO_PREMIUM_1" = "This package lets you get the most possible out of your wedding photos.";
+"INFO_PREMIUM_3" = "Collect wedding photos from everyone all in the same place. Whether it's your guests, professional photographer or a photo booth, they can all be uploaded in the app.";
+"INFO_PREMIUM_5" = "Everyone you've invited to the app as a guest can download your photos. You can download everything in one go, to make it as easy as possible.";
+"INFO_PREMIUM_6" = "5 years hosting";
+"INFO_PREMIUM_7" = "We keep your memories safe and sound on our server for 5 years, so you can revisit them whenever you want!";
+"INFO_PREMIUM_YEAR" = "We keep your memories safe and sound on our server for 1 year, so you can revisit them whenever you want!";
+
+"YEAR_PROTECTION" = "1 year hosting";
+"SINGLE_DOWNLOAD" = "Single Download";
+"CANNOT_DOWNLOAD" = "Photos cannot be downloaded";
+"ONLY_YOU_DOWNLOAD" = "You are the only person that can download photos";
+
+"INFO_TITLE_SUBSCRIPTION" = "Pay As You Go";
+"INFO_SUBSCRIPTION_1" = "This package lets you keep all your memories in the app for even longer.";
+"INFO_SUBSCRIPTION_4" = "Photos cannot be downloaded";
+"INFO_SUBSCRIPTION_5" = "As this service is only to store your memories and keep your photos in the app, you won't be able to download photos on this plan";
+"INFO_SUBSCRIPTION_6" = "You choose how long you pay for";
+
+// MARK: - CouponModalViewController
+"ADD_COUPON" = "Add";
+
+// MARK: - CouponModalViewController
+"ADD_COUPON_TITLE" = "Add coupon code";
+"ADD_COUPON_SUBTITLE" = "Here you can add your coupon and unlock features.";
+"WRONG_COUPON_CODE_TITLE" = "Wrong coupon code";
+"COUPON_CODE" = "Coupon code";
+"COUPON_TITLE" = "Coupon? Click here";
+"COUPON_EXPIRED_TITLE" = "Coupon code expired";
+"COUPON_EXPIRED_MESSAGE" = "This coupon code has unfortunately expired.";
+"WRONG_COUPON_CODE_TITLE_MESSAGE" = "The coupon code entered is not valid. Please enter a valid code, or contact support for help.";
+"COUPON_LIMIT_TITLE" = "Coupon not valid";
+"COUPON_LIMIT_MESSAGE" = "Coupon code is no longer valid.";
+"SOMETHING_WRONG_TITLE" = "Something went wrong";
+"SOMETHING_WRONG_MESSAGE" = "Unfortunately something went wrong. Please try again later, or contact support for help.";
+"UNLOCK_COUPON_CODE_TITLE" = "Great, you now have access to...";
+"UNLOCK_COUPON_CODE_TITLE_MESSAGE" = "You now have access to the following products:\n%@";
+"UNLOCK_ALL" = " - The Premium package\n";
+"UNLOCK_UNLIMITED" = " - Unlimited High Quality downloads\n";
+"UNLOCK_UNLIMITED_ALL" = " - Unlimited High Quality downloads for everyone at this wedding\n";
+"UNLOCK_REMOVE_ADS" = " - Remove wedding ads\n";
+"ZIP_FILES" = "Zip my files and send link";
+
+// MARK: - DownloadViewController
+"DOWNLOAD_TITLE" = "Download";
+"DOWNLOADINFO" = "You can use the button below to download all your photos.\n\nYou'll then receive a link via email where you can start your download.";
+"DOWNLOAD_FILES_EMAIL_TITLE" = "Wedding photos";
+"DOWNLOAD_REQUESTED" = "Download photos";
+"DOWNLOAD_REQUESTED_NO_FILES" = "No photos or videos have been uploaded to this wedding. Please try again later once some files have been added.";
+"DOWNLOAD_REQUESTED_MESSAGE" = "A link where you can download your photos has been sent to your email";
+
+// MARK: - GuestsViewController
+"GUESTS_TITLE" = "Guests";
+
+// MARK: - GENERAL
+"ERROR_MESSAGE" = "An error occurred (936)";
+"UPOLOAD_CANCELLED" = "Uploads cancelled";
+
+"ERROR_NO_CONNECTION_MESSAGE" = "There is no connection to the internet";
+"ERROR_FIREBASE_MESSAGE" = "An error occurred (951)";
+
+// MARK: - TermsViewController
+"TERMS_URL" = "https://wedbox.com/appterms/en";
+
+// MARK: - DateSelectionView
+"DATE_SELECTION_TITLE" = "Our wedding date";
+"DATE_SELECTION_INFO" = "The wedding date can be changed later!";
+
+"SHARE_LINK" = "https://b359m.app.goo.gl/?link=https://app.wedbox.com&apn=com.capty.wedbox&amv=4&isi=647693283&ibi=com.capty.wedbox";
+
+// MARK: - AdminViewController
+"MAKE_GUEST_BUTTON" = "Make guest";
+/* MARK: - AdminViewController */
+"ADMIN_BUTTON_TITLE" = "Make admin";
+"ADMIN_REVOKE_BUTTON_TITLE" = "Revoke admin";
+"REMOVE_USER_BUTTON_TITLE" = "Remove from wedding";
+
+"ALERTVIEW_REMOVE_FROM_WEDDING_TITLE" = "Remove user from wedding";
+"ALERTVIEW_REMOVE_FROM_WEDDING_MESSAGE" = "Are you sure you want to remove user from wedding?";
+"REMOVED_FROM_WEDDING_TITLE" = "Removed from wedding";
+"REMOVED_FROM_WEDDING_MESSAGE" = "You have been removed from the selected wedding";
+
+// MARK: - ViewController
+"CREATE_WEDDING" = "Create Event";
+"ATTEND_WEDDING" = "Attend Event";
+"INTRO_1" = "All memories from your wedding. Perfectly organised";
+"INTRO_2" = "Make your guests wedding photographers and capture every moment!";
+"INTRO_3" = "The wedding couple can download everything with a click on a button.";
+
+"MAX_VIDEO_REACHED_TITLE" = "Maximum number of videos";
+"MAX_VIDEO_REACHED_MESSAGE" = "You can only pick one video at a time";
+
+"ALERTVIEW_DEACTIVATE_TITLE" = "Delete wedding";
+"ALERTVIEW_DEACTIVATE_MESSAGE" = "Are you sure you want to delete your wedding? This action can not be reverted!";
+
+"UNLOCK_LONGER_VIDEOS" = " - Unlock ability to record longer videos for everyone at this wedding\n";
+
+"COUPON_DOES_NOT_EXISTS_TITLE" = "Coupon doesn't exist";
+"COUPON_DOES_NOT_EXISTS_MESSAGE" = "Coupon couldn't be found";
+
+// MARK: Common Alert
+"ALERTVIEW_COMMON_TITLE" = "Error message";
+
+"EMPTY_TEXT_FIELD" = "Text required";
+"EMPTY_TEXT_FIELD_MESSAGE" = "Please, enter text to perform this action";
+"EMPTY_TEXT_COMMENT_MESSAGE" = "Please write a comment to perform this action";
+
+"DOWNLOAD_DELAY_TITLE" = "You have recently requested your media files for a download";
+"DOWNLOAD_DELAY_MESSAGE" = "30 minutes has to pass before you can request a new download";
+
+
+"SUPPORT_USER" = "\n\nUser: ";
+"SUPPORT_APP_VERSION" = "\nApp version: ";
+
+"ADMIN_BUTTON_DOWNGRADE_TITLE" = "Set as admin";
+"PARTNER_BUTTON_TITLE" = "Make partner";
+
+"SUPPORT_WEDDING" = "\nCurrent wedding: ";
+"ALERTVIEW_DEACTIVATED_WEDDING_MESSAGE" = "The wedding has been deactivated. You are not allowed to join";
+
+"ALERTVIEW_DEACTIVATED_WEDDING_TITLE" = "Wedding deactivated";
+"SELECT_PROFILE_IMAGE" = "Selected profile image";
+
+"ERROR_IMAGE_NOT_FOUND_TITLE" = "Selected image not found";
+"ADDED_TO_CLIPBOARD_TITLE" = "Clipboard";
+"ADDED_TO_CLIPBOARD_MESSAGE" = "Your wedding link has been copied to the clipboard. Share the link with the guests and they will seamlessly be connected to the wedding";
+
+"NO_ACCESS_TITLE" = "No Access";
+"NO_ACCESS_MESSAGE" = "You dont have the necessary right to access this content";
+"REMOVE_ADS_DESCRIPTION" = "Remove ads for all users in  this wedding. The purchaser will not see ads in any wedding.";
+"TODAY" = "Today";
+"SETTINGS_TITLE" = "Open Settings";
+"SUPPORT_MAIL_TO_2" = "support@wedbox.com";
+"ALL_IN_ONE" = "The Premium package";
+"UNLIMITED_EVERYONE" = "Unlimited High Quality downloads for everyone at this wedding";
+"ALL_IN_ONE_DESCRIPTION" = "With this package you can unlock all the below features.";
+"UNLIMITED_EVERYONE_DESCRIPTION" = "Enable photo downloads in the highest available quality for all wedding guests.";
+"UNLIMITED_YOU" = "Unlimited High Quality downloads";
+"UNLIMITED_YOU_DESCRIPTION" = "Allows you to download unlimited photos in the highest available quality.";
+"REMOVE_ADS" = "Remove wedding ads";
+"PARTNER_REVOKE_BUTTON_TITLE" = "Set partner as guest";
+"ALERTVIEW_ROLE_SELECTION_TITLE" = "Your partner is";
+"ALERTVIEW_ROLE_SELECTION_MESSAGE" = "Choose if your partner is bride or groom";
+"INVITE_PHOTOGRAPHER_SUBJECT" = "invites you to use Wedbox at their wedding";
+"Send_the_download_link" = "Send the download link";
+"Please_enter_your_email" = "Please enter your email";
+"Get_zip_15Minutes" = "The download link will be sent to this email within 15 minutes";
